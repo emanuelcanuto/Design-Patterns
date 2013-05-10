@@ -1,8 +1,8 @@
 /*
-  Em uma liguagem orientada a objetos usamos contrutores para inicializar 
-	objetos da classe. Usaremos o padrão contrutor para criar tipos específicos 
-	de objetos preparando aceitação argumentos para setar valores para seus
-	atributos e metodos
+Em uma liguagem orientada a objetos usamos contrutores para inicializar 
+objetos da classe. Usaremos o padrão contrutor para criar tipos específicos 
+de objetos preparando aceitação argumentos para setar valores para seus
+atributos e metodos
 */
 
 // criação de objetos
@@ -31,8 +31,8 @@ Object.defineProperty( novoObejto, "propriedadesIntelectual", {
 
 
 /* 
-	JavaScript não suporta o conceito de classes, mas ele tem função de construtor 
-	com a palavra "new", dizemos a uma função para se comportar como um construtor. 	
+JavaScript não suporta o conceito de classes, mas ele tem função de construtor 
+com a palavra "new", dizemos a uma função para se comportar como um construtor. 	
 */
 
 // construtor básico
